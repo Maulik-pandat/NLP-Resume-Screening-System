@@ -118,4 +118,3 @@ Candidates are ranked according to their Final Score.
 
 Maulik Bhardwaj
 
-NLP Resume Screening System – Academic/Portfolio Project
